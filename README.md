@@ -10,4 +10,6 @@ Compnents
    Full adder 
    <br>
    Compressor
+     <br>
+   Convolutional unit
    
